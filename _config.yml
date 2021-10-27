@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vítor Costa"
+title                    : "J. Vítor R. Costa"
 title_separator          : "-"
 name                     : &name "Vítor Costa"
-description              : &description "Welcome to my website!"
+description              : &description "Welcome to my academic page!"
 url                      : https://jvrcosta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vítor Costa"
+  name             : "J. Vítor R. Costa"
   avatar           : "VitorCosta_3788.jpg"
   bio              : "Economics PhD Candidate at Cornell University"
   location         : "Ithaca, NY"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
