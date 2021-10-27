@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello, there. I am an applied economist at Cornell currently doing research on labor economics and public finance.  
+Hello, there. I am an applied economist at Cornell University currently doing research on labor economics and public finance. My work focuses on the effects of employer concentration on local labor markets in the context of developing countries.   
