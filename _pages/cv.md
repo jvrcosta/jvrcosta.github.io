@@ -1,1 +1,7 @@
-# You can download my CV here <jvrcosta.github.io/blob/master/files/cv_costavitor.pdf>
+---
+title: 'Vitor Costa CV (PDF)'
+permalink: /blob/master/files/cv_costavitor.pdf
+tags:
+  - CV
+---
+
