@@ -5,4 +5,5 @@ permalink: /cv/
 author_profile: true
 ---
 
-jvrcosta.github.io/blob/master/files/cv_costavitor.pdf
+[Vítor Costa's CV (PDF)](jvrcosta.github.io/blob/master/files/cv_costavitor.pdf)
+
