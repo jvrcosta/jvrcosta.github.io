@@ -8,12 +8,10 @@ author_profile: true
 ## Wage Effects of Mergers and Acquisitions in Developing Countries: Evidence from Brazil (Draft coming soon)
 I use 1.1 billion matched employer-employee records merged with corporate tax filing information to estimate the effects of establishment mergers and acquisitions in Brazil between 2003 and 2017. By means of a staggered, multiple treatment event study design I show that, contrary to the evidence found in developed economies, employer concentration via M\&As in Brazil cause an immediate increase in wages. My result shows that despite the increased employer concentration induced by mergers, workers can benefit from having fewer, but nonetheless bigger and more productive, employers. 
     
-## Revolving Doors and Public Procurement
-### with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio)
+## Revolving Doors and Public Procurement - with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio){:target="_blank"}
 We explore the relationship between procurement deals within the Brazilian federal government and the contingent of civil service workers switching into private-sector careers. We find preliminary evidence that public sector workers are more likely to work for a private sector firm that has celebrated a contract with their former government divisions. This is suggestive of \emph{quid pro quo}  in the form of career benefits to public sector workers. 
     
-## Executives, their Compensation and Entourage
-### with [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/)
+## Executives, their Compensation and Entourage - with [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/){:target="_blank"}
 Company directors are highly coveted professionals, not only because of their executive skills but also due to their access to  a wide range of professionals in their industry. We develop a model where potential employers poach executives taking into account the network of human capital these executives have previously interacted with in their career. We verify the predictions of the model using administrative matched employer-employee records form Brazil.  
   
 ## Distribution of the Public Sector Wage Premium in Brazil
