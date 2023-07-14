@@ -22,7 +22,7 @@ can effectively reduce the public wage premium.
 
 ### [Merger Effects on Worker Outcomes: A Review for Antitrust Enforcement](https://jvrcosta.github.io/files/vitor_costa_ma_antitrust_rev.pdf){:target="_blank"}
 
-![image](https://jvrcosta.github.io/files/ma_rev_thumb.png){: style="float: left"}{: width="250" }
+![image](https://jvrcosta.github.io/files/ma_rev_thumb.png){: style="float: left; width=250; height=250" }
 Empirical findings point to a robust negative relationship between local employment
 concentration and wages. Despite the scarcity of merger challenges on the grounds of
 decreased labor market competition, economic theory, case law, and amassed evidence
