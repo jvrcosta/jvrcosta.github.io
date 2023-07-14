@@ -21,7 +21,7 @@ implies that horizontal wage freezes, often applied in periods of fiscal consoli
 can effectively reduce the public wage premium.
 
 ### [Merger Effects on Worker Outcomes: A Review for Antitrust Enforcement](https://jvrcosta.github.io/files/vitor_costa_ma_antitrust_rev.pdf){:target="_blank"}
-<img align="left" width="100" height="100" alt="table" src="https://jvrcosta.github.io/files/ma_rev_thumb.png">
+<img align="left" width="300" height="300" alt="table" src="https://jvrcosta.github.io/files/ma_rev_thumb.png">
 
 Empirical findings point to a robust negative relationship between local employment
 concentration and wages. Despite the scarcity of merger challenges on the grounds of
