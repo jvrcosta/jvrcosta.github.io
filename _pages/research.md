@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-## Wage Effects of Mergers and Acquisitions in Developing Countries: Evidence from Brazil (*Draft coming soon*)
-I use 1.1 billion matched employer-employee records merged with corporate tax filing information to estimate the effects of establishment mergers and acquisitions in Brazil between 2003 and 2017. By means of a staggered, multiple treatment event study design I show that, contrary to the evidence found in developed economies, employer concentration via M&As in Brazil cause an immediate increase in wages. My result shows that despite the increased employer concentration induced by mergers, workers can benefit from having fewer, but nonetheless bigger and more productive, employers. 
+## [Local Labor Market Effects of Mergers and Acquisitions in Developing Countries: Evidence from Brazil](https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf){:target="_blank"}
+I use matched employer-employee records merged with corporate tax information from 2003 to 2017 to estimate labor market-wide effects of mergers and acquisitions in Brazil. Pairs of commuting zone and industry sector define labor markets. In the following year of a merger, the market size falls by 10.8%. The employment adjustment is concentrated in merging firms. For the firms not involved in M&As, I estimate a 1.07% decline in workers’ earnings and a positive, although not significant, increase in their size. Most mergers have a predicted impact of zero points in concentration, measured by the Herfindahl–Hirschman Index (HHI). In spillover firms, earnings decline similarly for mergers with high and low predicted changes in HHI. Contrary to the recent literature on market concentration in developed economies, I find no evidence of oligopsonistic behavior in Brazilian labor markets.
     
 ## Revolving Doors and Public Procurement 
 * with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio){:target="_blank"} 
