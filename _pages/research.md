@@ -14,6 +14,8 @@ I use matched employer-employee records merged with corporate tax information fr
 
 </details>
 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477819" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">(SSRN)</a>
+
 <h3><a href="https://jvrcosta.github.io/files/vitor_costa_ma_antitrust_rev.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">Merger Effects on Worker Outcomes: A Review for Antitrust Enforcement</a></h3>
 
 <details>
@@ -30,6 +32,8 @@ Empirical findings point to a robust negative relationship between local employm
 This study leverages 15 years of employer-employee administrative records from Brazil to examine wage differences between public and private sector workers. Using the Oaxaca-Blinder decomposition, I estimate the wage gap on average and across the earnings distribution. My findings confirm that public sector workers typically have higher earnings due to both their observable attributes and the public sector’s distinct wage structure, which significantly varies across government branches and levels. Over the earnings distribution, a consistent wage premium due to public sector compensation rules persists across all earnings deciles when worker fixed effects are included. This implies that horizontal wage freezes, often applied in periods of fiscal consolidation, can effectively reduce the public wage premium.
 </details>
 
+
+## Works in Progress
 
 ##### Revolving Doors and Public Procurement 
 * with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio){:target="_blank"} 
