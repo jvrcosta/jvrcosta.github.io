@@ -14,8 +14,12 @@ I use matched employer-employee records merged with corporate tax information fr
 
 </details>
 
-### [The Public-Private Wage Gap in Brazil: New Evidence from Linked Employer-Employee Data](https://jvrcosta.github.io/files/vitor_costa_pub_pri_wagegap_brazil.pdf){:target="_blank"}
-**Abstract** This study leverages 15 years of employer-employee administrative records from Brazil
+<h3><a href="https://jvrcosta.github.io/files/vitor_costa_pub_pri_wagegap_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">The Public-Private Wage Gap in Brazil: New Evidence from Linked Employer-Employee Data</a></h3>
+
+<details>
+<summary style="color:#154360"><b>Abstract</b></summary>
+
+This study leverages 15 years of employer-employee administrative records from Brazil
 to examine wage differences between public and private sector workers. Using the
 Oaxaca-Blinder decomposition, I estimate the wage gap on average and across the
 earnings distribution. My findings confirm that public sector workers typically have
@@ -25,6 +29,7 @@ the earnings distribution, a consistent wage premium due to public sector compen
 rules persists across all earnings deciles when worker fixed effects are included. This
 implies that horizontal wage freezes, often applied in periods of fiscal consolidation,
 can effectively reduce the public wage premium.
+</details>
 
 ### [Merger Effects on Worker Outcomes: A Review for Antitrust Enforcement](https://jvrcosta.github.io/files/vitor_costa_ma_antitrust_rev.pdf){:target="_blank"}
 **Abstract** Empirical findings point to a robust negative relationship between local employment
