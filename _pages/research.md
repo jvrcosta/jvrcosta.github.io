@@ -14,7 +14,7 @@ I use matched employer-employee records merged with corporate tax information fr
 
 </details>
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477819" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">(SSRN)</a>
+<a href="https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">(Latest Version)</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477819" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">(SSRN)</a><a href="https://arxiv.org/abs/2306.08797" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">(ArXiv)</a>
 
 <h3><a href="https://jvrcosta.github.io/files/vitor_costa_ma_antitrust_rev.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">Merger Effects on Worker Outcomes: A Review for Antitrust Enforcement</a></h3>
 
