@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<a href="https://www.google.com/" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<h3><a href="https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">custom link</a></h3>
 
 ### [Local Labor Market Effects of Mergers and Acquisitions in Developing Countries: Evidence from Brazil](https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf){:target="_blank"}
 <details>
