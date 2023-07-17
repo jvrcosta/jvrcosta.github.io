@@ -40,7 +40,7 @@ This study leverages 15 years of employer-employee administrative records from B
 <details>
 <summary style="color:#154360; font-size:16px"><b>More details</b></summary>
  
-We explore the relationship between procurement deals within the Brazilian federal government and the contingent of civil service workers switching into private-sector careers. We find preliminary evidence that public sector workers are more likely to work for a private sector firm that has celebrated a contract with their former government divisions. This is suggestive of *quid pro quo*  in the form of career benefits to public sector workers. 
+We explore the relationship between procurement deals within the Brazilian federal government and the contingent of civil service workers switching into private-sector careers. We find preliminary evidence that public sector workers are more likely to work for a private sector firm that has celebrated a contract with their former government divisions. This is suggestive of <em>quid pro quo</em>  in the form of career benefits to public sector workers. 
 
 </details>
  
