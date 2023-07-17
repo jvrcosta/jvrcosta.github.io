@@ -35,7 +35,8 @@ This study leverages 15 years of employer-employee administrative records from B
 
 ## Works in Progress
 -----------------------------------------------------------------
-<h3> Revolving Doors and Public Procurement, <style="font-size:10px">with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio){:target="_blank"}</h3>
+### Revolving Doors and Public Procurement
+<span style='font-size:12px;'>&#9658;</span> with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio){:target="_blank"}
 <details>
 &nbsp;<summary style="color:#154360; font-size:16px"><b>More details</b></summary>
  
@@ -44,7 +45,7 @@ We explore the relationship between procurement deals within the Brazilian feder
 </details>
  
 ### Poaching, Raids, and Managerial Compensation 
-<span style='font-size:8px;'>&#9658;</span> With [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/){:target="_blank"},[Fabian Lange (McGill)](http://www.fabianlange.ca){: target="_blank"}, [Yi Chen](https://sites.google.com/view/yichenecon/home?authuser=0){: target="_blank"}
+<span style='font-size:10px;'>&#9658;</span> With [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/){:target="_blank"},[Fabian Lange (McGill)](http://www.fabianlange.ca){: target="_blank"}, [Yi Chen](https://sites.google.com/view/yichenecon/home?authuser=0){: target="_blank"}
 <details>
 <summary style="color:#154360; font-size:16px"><b>More details</b></summary>
  
