@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h3><a href="https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">Local Labor Market Effects of Mergers and Acquisitions in Developing Countries: Evidence from Brazil</a></h3>
-
+Updated: July 2023
 <details>
 <summary style="font-size:; color: #154360"><b>Abstract</b></summary>
 
@@ -14,10 +14,10 @@ I use matched employer-employee records merged with corporate tax information fr
 
 </details>
 
-<a href="https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">[Latest Version\]</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477819" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">[SSRN\]</a><a href="https://arxiv.org/abs/2306.08797" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">[ArXiv\]</a>
+<a href="https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">[Latest Version\]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477819" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">[SSRN\]</a> <a href="https://arxiv.org/abs/2306.08797" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">[ArXiv\]</a>
 
 <h3><a href="https://jvrcosta.github.io/files/vitor_costa_ma_antitrust_rev.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">Merger Effects on Worker Outcomes: A Review for Antitrust Enforcement</a></h3>
-
+Updated: July 2023
 <details>
 <summary style="color:#154360"><b>Abstract</b></summary>
 
@@ -25,7 +25,7 @@ Empirical findings point to a robust negative relationship between local employm
 </details>
 
 <h3><a href="https://jvrcosta.github.io/files/vitor_costa_pub_pri_wagegap_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">The Public-Private Wage Gap in Brazil: New Evidence from Linked Employer-Employee Data</a></h3>
-
+Updated: July 2023
 <details>
 <summary style="color:#154360"><b>Abstract</b></summary>
 
@@ -38,14 +38,14 @@ This study leverages 15 years of employer-employee administrative records from B
 ### Revolving Doors and Public Procurement
 <span style='font-size:10px;'>&#9679;</span> with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio){:target="_blank"}
 <details>
-&nbsp;<summary style="color:#154360; font-size:16px"><b>More details</b></summary>
+<summary style="color:#154360; font-size:16px"><b>More details</b></summary>
  
 We explore the relationship between procurement deals within the Brazilian federal government and the contingent of civil service workers switching into private-sector careers. We find preliminary evidence that public sector workers are more likely to work for a private sector firm that has celebrated a contract with their former government divisions. This is suggestive of *quid pro quo*  in the form of career benefits to public sector workers. 
 
 </details>
  
 ### Poaching, Raids, and Managerial Compensation 
-<span style='font-size:10px;'>&#9679;</span> ith [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/){:target="_blank"},[Fabian Lange (McGill)](http://www.fabianlange.ca){: target="_blank"}, [Yi Chen](https://sites.google.com/view/yichenecon/home?authuser=0){: target="_blank"}
+<span style='font-size:10px;'>&#9679;</span> with [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/){:target="_blank"},[Fabian Lange (McGill)](http://www.fabianlange.ca){: target="_blank"}, [Yi Chen](https://sites.google.com/view/yichenecon/home?authuser=0){: target="_blank"}
 <details>
 <summary style="color:#154360; font-size:16px"><b>More details</b></summary>
  
