@@ -34,17 +34,15 @@ This study leverages 15 years of employer-employee administrative records from B
 
 
 ## Works in Progress
-===================================
+-----------------------------------------------------------------
 ### Revolving Doors and Public Procurement 
-* with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio){:target="_blank"}
-<details>
+* with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio){:target="_blank"} <details>
 <summary style="color:#154360"><b>Summary</b></summary>
 We explore the relationship between procurement deals within the Brazilian federal government and the contingent of civil service workers switching into private-sector careers. We find preliminary evidence that public sector workers are more likely to work for a private sector firm that has celebrated a contract with their former government divisions. This is suggestive of *quid pro quo*  in the form of career benefits to public sector workers. 
 </details>
  
 ### Poaching, Raids, and Managerial Compensation 
-* with [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/){:target="_blank"},[Fabian Lange (McGill)](http://www.fabianlange.ca){: target="_blank"}, [Yi Chen](https://sites.google.com/view/yichenecon/home?authuser=0){: target="_blank"}
-<details>
+* with [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/){:target="_blank"},[Fabian Lange (McGill)](http://www.fabianlange.ca){: target="_blank"}, [Yi Chen](https://sites.google.com/view/yichenecon/home?authuser=0){: target="_blank"} <details>
 <summary style="color:#154360"><b>Summary</b></summary>
 Company directors are highly coveted professionals, not only because of their executive skills but also due to their access to  a wide range of professionals in their industry. We develop a model where potential employers poach executives taking into account the network of human capital these executives have previously interacted with in their career. We verify the predictions of the model using administrative matched employer-employee records form Brazil.  
 </details>
