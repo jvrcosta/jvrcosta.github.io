@@ -44,8 +44,7 @@ We explore the relationship between procurement deals within the Brazilian feder
 
 </details>
  
-### Poaching, Raids, and Managerial Compensation 
-* with [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/){:target="_blank"},[Fabian Lange (McGill)](http://www.fabianlange.ca){: target="_blank"}, [Yi Chen](https://sites.google.com/view/yichenecon/home?authuser=0){: target="_blank"}
+### Poaching, Raids, and Managerial Compensation (with [Thomas Jungbauer (Cornell)](https://thomas-jungbauer.com/){:target="_blank"},[Fabian Lange (McGill)](http://www.fabianlange.ca){: target="_blank"}, [Yi Chen](https://sites.google.com/view/yichenecon/home?authuser=0){: target="_blank"})
 <details>
  <summary style="color:#154360; font-size:16px"><b>More details</b></summary>
  
