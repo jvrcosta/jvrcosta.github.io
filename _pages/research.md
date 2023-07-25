@@ -8,7 +8,7 @@ author_profile: true
 <h3><a href="https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">Local Labor Market Effects of Mergers and Acquisitions in Developing Countries: Evidence from Brazil</a></h3>
 <span style='font-size:16px;'>Updated: July 2023</span>
 <details>
-<summary style="font-size:16px; color: #154360"; cursor:pointer;"><b>Abstract</b></summary>
+<summary style="font-size:16px; color: #154360; cursor:pointer"><b>Abstract</b></summary>
 
 I use matched employer-employee records merged with corporate tax information from 2003 to 2017 to estimate labor market-wide effects of mergers and acquisitions in Brazil. Pairs of commuting zone and industry sector define labor markets. In the following year of a merger, the market size falls by 10.8%. The employment adjustment is concentrated in merging firms. For the firms not involved in M&As, I estimate a 1.07% decline in workers’ earnings and a positive, although not significant, increase in their size. Most mergers have a predicted impact of zero points in concentration, measured by the Herfindahl–Hirschman Index (HHI). In spillover firms, earnings decline similarly for mergers with high and low predicted changes in HHI. Contrary to the recent literature on market concentration in developed economies, I find no evidence of oligopsonistic behavior in Brazilian labor markets. <a href="https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: dotted;">[Full Text]</a>
 
