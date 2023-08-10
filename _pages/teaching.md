@@ -9,11 +9,11 @@ author_profile: true
 <h3> Cornell University </h3>
 ---
 
-Fall 2019 - Intermediate Microeconomic Theory(ECON3030) - [Prof. Doug Mckee](https://dougmckee.net)
+Fall 2019 - Intermediate Microeconomic Theory(ECON3030) - [<font size="8">Prof. Doug Mckee</font>](https://dougmckee.net)
 
-Spring 2020 - Intermediate Microeconomic Theory (ECON3030) - [Prof. Alex Rees-Jones](https://alexreesjones.github.io)
+Spring 2020 - Intermediate Microeconomic Theory (ECON3030) - [<font size="8">Prof. Alex Rees-Jones</font>](https://alexreesjones.github.io)
 
-Fall 2021 - Integral Calculus for Engineers (MATH1910) - [Prof. Yuri Berest](https://math.cornell.edu/yuri-berest)
+Fall 2021 - Integral Calculus for Engineers (MATH1910) - [<font size="8">Prof. Yuri Berest</font>](https://math.cornell.edu/yuri-berest)
 
 Spring 2022 - Introductory Microeconomics (ECON1110) - [Prof. Jennifer Wissink](https://economics.cornell.edu/jennifer-wissink)
 
