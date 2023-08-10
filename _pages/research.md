@@ -33,7 +33,7 @@ This study leverages 15 years of employer-employee administrative records from B
 </details>
 
 
-## Works in Progress
+## Work in Progress
 -----------------------------------------------------------------
 ### Revolving Doors and Public Procurement
 <span style='font-size:10px;'>&#9679;</span> with [Dimas Fazio (NUS)](https://sites.google.com/view/dimasfazio){:target="_blank"}
