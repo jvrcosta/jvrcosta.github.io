@@ -9,21 +9,21 @@ author_profile: true
 <h3> Cornell University </h3>
 ---
 
-Fall 2019 - Intermediate Microeconomic Theory(ECON3030) - [<font size="8">Prof. Doug Mckee</font>](https://dougmckee.net)
+Fall 2019 - Intermediate Microeconomic Theory(ECON3030) - [<font size="3">Prof. Doug Mckee</font>](https://dougmckee.net)
 
-Spring 2020 - Intermediate Microeconomic Theory (ECON3030) - [<font size="8">Prof. Alex Rees-Jones</font>](https://alexreesjones.github.io)
+Spring 2020 - Intermediate Microeconomic Theory (ECON3030) - [<font size="3">Prof. Alex Rees-Jones</font>](https://alexreesjones.github.io)
 
-Fall 2021 - Integral Calculus for Engineers (MATH1910) - [<font size="8">Prof. Yuri Berest</font>](https://math.cornell.edu/yuri-berest)
+Fall 2021 - Integral Calculus for Engineers (MATH1910) - [<font size="3">Prof. Yuri Berest</font>](https://math.cornell.edu/yuri-berest)
 
-Spring 2022 - Introductory Microeconomics (ECON1110) - [Prof. Jennifer Wissink](https://economics.cornell.edu/jennifer-wissink)
+Spring 2022 - Introductory Microeconomics (ECON1110) - [<font size="3">Prof. Jennifer Wissink</font>](https://economics.cornell.edu/jennifer-wissink)
 
-Summer 2022 - Introductory Microeconomics (ECON1110) - [Prof. Jennifer Wissink](https://economics.cornell.edu/jennifer-wissink)
+Summer 2022 - Introductory Microeconomics (ECON1110) - [<font size="3">Prof. Jennifer Wissink</font>](https://economics.cornell.edu/jennifer-wissink)
 
-Fall 2022 - Introductory Microeconomics (ECON1110) - [Prof. Stephanie Thomas](https://www.ilr.cornell.edu/people/stephanie-thomas)
+Fall 2022 - Introductory Microeconomics (ECON1110) - [<font size="3">Prof. Stephanie Thomas</font>](https://www.ilr.cornell.edu/people/stephanie-thomas)
 
-Spring 2023 - Introductory Macroeconomics (ECON1120) - [Prof. Terry Alexander](https://dyson.cornell.edu/faculty-research/faculty/ta425/)
+Spring 2023 - Introductory Macroeconomics (ECON1120) - [<font size="3">Prof. Terry Alexander</font>](https://dyson.cornell.edu/faculty-research/faculty/ta425/)
 
-Summer 2023 - Introductory Microeconomics (ECON1110) - [Prof. Jennifer Wissink](https://economics.cornell.edu/jennifer-wissink)
+Summer 2023 - Introductory Microeconomics <font size="3">(ECON1110, [Prof. Jennifer Wissink](https://economics.cornell.edu/jennifer-wissink))</font>
 
 
 
