@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <h3><a href="https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">Local Labor Market Effects of Mergers and Acquisitions in Developing Countries: Evidence from Brazil</a></h3>
-<span style='font-size:14px;'>Updated: July 2023</span>
 <details>
 <summary style="font-size:14px; color: #154360; cursor:pointer"><b>Abstract</b></summary>
 
@@ -17,7 +16,6 @@ I use matched employer-employee records merged with corporate tax information fr
 <a href="https://jvrcosta.github.io/files/vitor_costa_llm_ma_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; font-size:14px; text-decoration: underline;text-decoration-style: dotted;">[Latest Version\]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477819" target="_blank" rel="noopener noreferrer" style="color: #154360; font-size:14px; text-decoration: underline;text-decoration-style: dotted;">[SSRN\]</a> <a href="https://arxiv.org/abs/2306.08797" target="_blank" rel="noopener noreferrer" style="color: #154360; font-size:14px; text-decoration: underline;text-decoration-style: dotted;">[ArXiv\]</a>
 
 <h3><a href="https://jvrcosta.github.io/files/vitor_costa_ma_antitrust_rev.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">Merger Effects on Worker Outcomes: A Review for Antitrust Enforcement</a></h3>
-<span style='font-size:14px;'>Updated: July 2023</span>
 <details>
 <summary style="color:#154360; font-size:14px; cursor:pointer"><b>Abstract</b></summary>
 
@@ -25,7 +23,6 @@ Empirical findings point to a robust negative relationship between local employm
 </details>
 
 <h3><a href="https://jvrcosta.github.io/files/vitor_costa_pub_pri_wagegap_brazil.pdf" target="_blank" rel="noopener noreferrer" style="color: #154360; text-decoration: underline;text-decoration-style: solid;">The Public-Private Wage Gap in Brazil: New Evidence from Linked Employer-Employee Data</a></h3>
-<span style='font-size:14px;'>Updated: July 2023</span>
 <details>
 <summary style="font-size:14px; color:#154360; cursor:pointer"><b>Abstract</b></summary>
 
