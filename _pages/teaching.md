@@ -5,6 +5,38 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* **Intermediate Microeconomic Theory - Fall 2019** ECON3030 [student evals](https://jvrcosta.github.io/files/CourseEval-Fall-2019-ECON-3030-DIS-210.211.VitorCosta.pdf){:target="_blank"}
-* **Intermediate Microeconomic Theory - Spring 2020** ECON3030 [student evals](https://jvrcosta.github.io/files/CourseEval-Spring_2020-ECON_3030-DIS_212.213.Vitor_Costa.pdf){:target="_blank"}
-* **Integral Calculus for Engineers - Fall 2021** MATH1910 [student evals](https://jvrcosta.github.io/files/TA_Eval-2021FA-MATH-1910-Vitor_Costa-JRC466-Faculty-Pollock-CID-4280.pdf){:target="_blank"}
+Teaching Assistantship at Cornell University
+__________________________________________________________
+Fall 2019 - Intermediate Microeconomic Theory(ECON3030) 
+
+Spring 2020 - Intermediate Microeconomic Theory (ECON3030) 
+
+Fall 2021 - Integral Calculus for Engineers (MATH1910) 
+
+Spring 2022 - Introductory Microeconomics (ECON1110) - Prof. Jennifer Wissink [https://economics.cornell.edu/jennifer-wissink]
+
+Summer 2022 - Introductory Microeconomics (ECON1110) - Prof. Jennifer Wissink [https://economics.cornell.edu/jennifer-wissink]
+
+Fall 2022 - Introductory Microeconomics (ECON1110) - Prof. Stephanie Thomas [https://www.ilr.cornell.edu/people/stephanie-thomas]
+
+Spring 2023 - Introductory Macroeconomics (ECON1120) - Prof. Terry Alexander [https://dyson.cornell.edu/faculty-research/faculty/ta425/]
+
+Summer 2023 - Introductory Microeconomics (ECON1110) - Prof. Jennifer Wissink [https://economics.cornell.edu/jennifer-wissink]
+
+
+Teaching Assistantship at Universidade de Brasíllia
+__________________________________________________________
+
+Spring 2009 - Probability and Statistics (Prof. Donald M. Pianto) [http://pesquisar.unb.br/professor/donald-matthew-pianto]
+
+Fall 2010 - Introduction to Econometrics (Prof. Milene Takasago) [http://www.pesquisar.unb.br/professor/milene-takasago]
+
+Spring 2013 - Microeconomic Theory (graduate level) (Prof. Gil Riella) [https://sites.google.com/a/nyu.edu/gil-riella-s-page/]
+
+Fall 2014 - Microeconomic Theory (graduate level) (Prof. Gil Riella) [https://sites.google.com/a/nyu.edu/gil-riella-s-page/]
+
+
+
+
+
+
