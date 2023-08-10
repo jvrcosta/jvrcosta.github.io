@@ -7,8 +7,8 @@ author_profile: true
 
 
 <h3> Cornell University </h3>
+---
 
-<font size="8">
 Fall 2019 - Intermediate Microeconomic Theory(ECON3030) - [Prof. Doug Mckee](https://dougmckee.net)
 
 Spring 2020 - Intermediate Microeconomic Theory (ECON3030) - [Prof. Alex Rees-Jones](https://alexreesjones.github.io)
@@ -24,10 +24,11 @@ Fall 2022 - Introductory Microeconomics (ECON1110) - [Prof. Stephanie Thomas](ht
 Spring 2023 - Introductory Macroeconomics (ECON1120) - [Prof. Terry Alexander](https://dyson.cornell.edu/faculty-research/faculty/ta425/)
 
 Summer 2023 - Introductory Microeconomics (ECON1110) - [Prof. Jennifer Wissink](https://economics.cornell.edu/jennifer-wissink)
-</font>
 
-<font size="10">
+
+
 <h3> Universidade de Brasíllia </h3>
+---
 
 Spring 2009 - Probability and Statistics [Prof. Donald M. Pianto](http://pesquisar.unb.br/professor/donald-matthew-pianto)
 
@@ -37,7 +38,7 @@ Spring 2013 - Microeconomic Theory (graduate level) [Prof. Gil Riella](https://s
 
 Fall 2014 - Microeconomic Theory (graduate level) [Prof. Gil Riella](https://sites.google.com/a/nyu.edu/gil-riella-s-page/)
 
-</font>
+
 
 
 
